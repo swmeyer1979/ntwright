@@ -1,1 +1,11 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>NT Wright Articles - RSS Feed</title>
+    <link>https://swmeyer1979.github.io/ntwright/rss_feed.xml</link>
+    <description>Latest articles from NT Wright</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 14 Nov 2023 18:26:16 +0000</lastBuildDate>
+  </channel>
+</rss>
